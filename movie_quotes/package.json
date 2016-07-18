@@ -1,0 +1,32 @@
+{
+    "author": "liam@mcmains.net",
+    "dependencies": {},
+    "keywords": [],
+    "name": "movie-quotes",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Movie Quotes",
+        "enableMultiJS": true,
+        "messageKeys": {
+            "message": 1,
+            "status": 0
+        },
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "c7830cca-31d4-4d28-9151-bef6687ee8a1",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
